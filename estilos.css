@@ -367,6 +367,11 @@
     body, .img-alisado1, .img-bolsa, .img-depilacion1, .img-crio1, .img-crio2{
         width: 100%;        
     }
+    
+  .fondo-text, .img-inicio{
+        width: 120px;
+        height: 120px;
+    }
 
     
     .short-tt{
@@ -444,7 +449,11 @@
     body, .img-alisado1, .img-bolsa, .img-depilacion1, .img-crio1, .img-crio2{
         width: 100%;        
     }
-
+    
+    .fondo-text, .img-inicio{
+        width: 120px;
+        height: 120px;
+    }
     .text-bannerFinal{
         font-size: 15px;
     } 
